@@ -78,7 +78,7 @@ Eager to contribute as a **Developer / Data Analytics Enthusiast** in a dynamic 
   - Store performance comparison  
   - Customer demographics and buying behavior  
   - Hourly, daily, and monthly time-based analysis
-  ![image alt](https://github.com/Kriti2311/krutikaumbardand.github.io/blob/b5f2d76bd77f70357f26c618ee3c75313d586ca9/Image1.jpg)
+  ![image alt](https://github.com/Kriti2311/krutikaumbardand.github.io/blob/d884adced4763fc09011635196454e741e95aafd/Image1.png)
 
 ---
 
@@ -109,7 +109,7 @@ w- ✅ **TCS iON Career Edge – Young Professional**
 ## 📄 Resume
 
 You can find my complete resume here:  
-📌 **CV_2026032919575657.pdf**
+📌 **Resume.pdf**
 
 ---
 
