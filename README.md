@@ -1,4 +1,4 @@
-# Krutika Umbardand
+2# Krutika Umbardand
 
 📍 Barshi, India  
 📞 +91-7218822599  
@@ -78,7 +78,7 @@ Eager to contribute as a **Developer / Data Analytics Enthusiast** in a dynamic 
   - Store performance comparison  
   - Customer demographics and buying behavior  
   - Hourly, daily, and monthly time-based analysis
-  ![image alt](https://github.com/Kriti2311/krutikaumbardand.github.io/blob/eae0a866ef4d736b5f2341c1e6d2f756b06ae35a/IMG_20260329_201116.jpgw) w 
+  ![image alt](https://github.com/Kriti2311/krutikaumbardand.github.io/blob/eae0a866ef4d736b5f2341c1e6d2f756b06ae35a/IMG_20260329_201116.jpg) 
 
 ---
 
