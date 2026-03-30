@@ -78,7 +78,7 @@ Eager to contribute as a **Developer / Data Analytics Enthusiast** in a dynamic 
   - Store performance comparison  
   - Customer demographics and buying behavior  
   - Hourly, daily, and monthly time-based analysis
-   IMG_20260329_201116.jpg 
+   [image/IMG_20260329_201116.jpg] 
 
 ---
 
@@ -90,7 +90,7 @@ Eager to contribute as a **Developer / Data Analytics Enthusiast** in a dynamic 
   - Prepared client meeting questions  
   - Built visuals for executive decision-making  
 
-- ✅ **TCS iON Career Edge – Young Professional**
+w- ✅ **TCS iON Career Edge – Young Professional**
   - Communication & workplace skills  
   - Resume writing and interview preparation  
   - Business etiquette and presentation skills  
