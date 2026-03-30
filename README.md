@@ -1,4 +1,4 @@
-2# Krutika Umbardand
+# Krutika Umbardand
 
 📍 Barshi, India  
 📞 +91-7218822599  
