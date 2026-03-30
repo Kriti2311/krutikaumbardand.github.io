@@ -78,7 +78,7 @@ Eager to contribute as a **Developer / Data Analytics Enthusiast** in a dynamic 
   - Store performance comparison  
   - Customer demographics and buying behavior  
   - Hourly, daily, and monthly time-based analysis
-    
+   IMG_20260329_201116.jpg 
 
 ---
 
